@@ -1,5 +1,3 @@
-En esta carpeta se almacenan los archivos de datos que recojen los experimentos realizados con Lupinus angustifolius 
-dentro del proyecto Assisted evolution of flowering time as a response to climate change (EVA: GL2016-77377).
+En esta carpeta se almacenan los archivos de datos que recojen los experimentos realizados con Lupinus angustifolius dentro del proyecto Assisted evolution of flowering time as a response to climate change (EVA: GL2016-77377).
 
-Es necesario añadir una descripción a los archivos. Github no realiza back-ups por lo que NUNCA se ha de borrar los archivos del "branch" principal
-siempre que se actualice un archivo hacerlo en un brach secundario.
+Es necesario añadir una descripción a los archivos. Github no realiza back-ups por lo que NUNCA se ha de borrar los archivos del "branch" principal siempre que se actualice un archivo hacerlo en un brach secundario.
