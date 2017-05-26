@@ -30,6 +30,6 @@ Estos archivos no se pueden edtiar directamente desde github. Se puede consultar
 
 https://help.github.com/articles/creating-a-pull-request-from-a-fork/
 
-3. Github no realiza backups automáticos de sus repositorios.
+# 4. Github no realiza backups automáticos de sus repositorios.
 
 Se mantendrá una copia de seguridad del repositorio en el google drive del laboratorio. Para tal efecto se realizará un backup "manual" del respositorio con periodicidad semanal.
